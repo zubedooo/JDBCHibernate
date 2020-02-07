@@ -24,5 +24,7 @@
 		<mapping class="com.cms.deloitte.model.CardDetail" />
 		<mapping class="com.cms.deloitte.model.AmazonCustomer" />
 		<mapping class="com.cms.deloitte.model.AmazonCustomer1_1" />
+		<mapping class="com.cms.deloitte.model.Employee" />
+		<mapping class="com.cms.deloitte.model.Project" />
 	</session-factory>
 </hibernate-configuration>
